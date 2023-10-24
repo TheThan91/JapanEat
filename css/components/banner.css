@@ -6,7 +6,11 @@
   /* 3. Center the image */
 	background-position: center;
 	color: whitesmoke;
-	padding: 150px 0px;
+	/* Previous padding
+	padding: 50px 0px;
+	*/
+	padding-bottom: 0px;
+  padding-top: 50px;
 }
 
 .banner h1{

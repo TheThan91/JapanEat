@@ -6,3 +6,21 @@
 	font-weight: bold;
 	font-size: 12px;
 }
+
+
+.btn-accueil {
+	background-color: indianred;
+	padding: 5px 5px;
+	border-radius: 4px;
+	color: whitesmoke;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.txt-menu{
+	color: #329A8E;
+	font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+	font-size: 24px;
+	text-shadow: #C05E5E 1px 1px;
+}

@@ -23,3 +23,59 @@ h1, h2, h3 {
 a {
   text-decoration: none;
 }
+
+
+.sidebar {
+  position: fixed;
+  width: 200px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.sidebaravatar {
+  position: fixed;
+  width: 150px;
+  right: 0;
+  top: 20px;
+  bottom: 0;
+}
+
+.list-inline{
+  display: flex;
+  justify-content: space-around;
+  background-color: rgba(100,100,100,0.6);
+  border-radius: 6px;
+  list-style: none;
+}
+
+.list-inline li{
+  display: inline;
+  margin-bottom: 0px;
+  padding: 00px;
+}
+
+.card-design{
+  background-color: whitesmoke;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  margin: 10px 0px;
+  text-align: center;
+}
+
+.menu{
+  padding: 0px;
+  height: 30px;
+  box-shadow: 0px 10px 30px rgba(1,0,0,0.5);
+  margin: 10px 0px;
+  text-align: left;
+}
+
+.magic-btn{
+  position: fixed;
+  width: 100px;
+  right: 40px;
+  top: 100px;
+}
+
